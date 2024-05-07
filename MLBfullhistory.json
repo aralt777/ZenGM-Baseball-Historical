@@ -1,0 +1,2680 @@
+{
+  "version": 60,
+  "meta": {
+    "name": "League 1"
+  },
+  "teams": [
+    {
+      "tid": 0,
+      "abbrev": "BAL",
+      "region": "Baltimore",
+      "name": "Orioles",
+      "imgURL": "https://content.sportslogos.net/logos/53/80/full/575.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/80/full/575.gif",
+      "colors": [
+        "#ffa200",
+        "#003b7a",
+        "#ffffff"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 2.7,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 1,
+      "abbrev": "BOS",
+      "region": "Boston",
+      "name": "Americans",
+      "imgURL": "https://content.sportslogos.net/logos/53/1458/full/1199_boston_americans-primary-1901.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/1458/full/1199_boston_americans-primary-1901.png",
+      "colors": [
+        "#003188",
+        "#ffffff",
+        "#003188"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 7.3,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 2,
+      "abbrev": "CWS",
+      "region": "Chicago",
+      "name": "White Stockings",
+      "imgURL": "https://content.sportslogos.net/logos/53/1456/full/7153.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/1456/full/7153.png",
+      "colors": [
+        "#ffffff",
+        "#000000",
+        "#787878"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 9.1,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 3,
+      "abbrev": "DET",
+      "region": "Detroit",
+      "name": "Tigers",
+      "imgURL": "https://content.sportslogos.net/logos/53/59/full/7184.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/59/full/7184.png",
+      "colors": [
+        "#ff000d",
+        "#d6d6d6",
+        "#ffffff"
+      ],
+      "jersey": "baseball3:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 4,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 4,
+      "abbrev": "MIL",
+      "region": "Milwaukee",
+      "name": "Brewers",
+      "imgURL": "https://content.sportslogos.net/logos/53/85/full/06z0ff46g2fhyny89jeo.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/85/full/06z0ff46g2fhyny89jeo.png",
+      "colors": [
+        "#1037ad",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 1.5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 5,
+      "abbrev": "PHA",
+      "region": "Philadelphia",
+      "name": "Athletics",
+      "imgURL": "https://content.sportslogos.net/logos/53/87/full/philadelphia_athletics_logo_primary_19019269.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/87/full/philadelphia_athletics_logo_primary_19019269.png",
+      "colors": [
+        "#002e99",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "baseball:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 5.5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 6,
+      "abbrev": "CLE",
+      "region": "Cleveland",
+      "name": "Blues",
+      "imgURL": "https://content.sportslogos.net/logos/53/1454/thumbs/7174.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/1454/thumbs/7174.gif",
+      "colors": [
+        "#0400ff",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "baseball2:hat3",
+      "cid": 0,
+      "did": 6,
+      "pop": 1.7,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 7,
+      "abbrev": "WAS",
+      "region": "Washington",
+      "name": "Senators",
+      "imgURL": "https://content.sportslogos.net/logos/53/1813/full/7215.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/53/1813/full/7215.png",
+      "colors": [
+        "#213063",
+        "#0033ff",
+        "#ffffff"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 0,
+      "did": 6,
+      "pop": 6.2,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 8,
+      "abbrev": "BSB",
+      "region": "Boston",
+      "name": "Beaneaters",
+      "imgURL": "https://content.sportslogos.net/logos/54/1459/full/7238.png",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/1459/full/7238.png",
+      "colors": [
+        "#ffffff",
+        "#e70000",
+        "#000000"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 7.3,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 9,
+      "abbrev": "BKN",
+      "region": "Brooklyn",
+      "name": "Superbas",
+      "imgURL": "https://content.sportslogos.net/logos/54/1463/full/6155.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/1463/full/6155.gif",
+      "colors": [
+        "#c50202",
+        "#000000",
+        "#ffffff"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 21.5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 10,
+      "abbrev": "CHO",
+      "region": "Chicago",
+      "name": "Orphans",
+      "imgURL": "https://content.sportslogos.net/logos/54/1465/thumbs/146580621901.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/1465/thumbs/146580621901.gif",
+      "colors": [
+        "#001999",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 9.1,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 11,
+      "abbrev": "CIN",
+      "region": "Cincinnati",
+      "name": "Reds",
+      "imgURL": "https://content.sportslogos.net/logos/54/56/thumbs/7256.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/56/thumbs/7256.gif",
+      "colors": [
+        "#ff0000",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 1.6,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 12,
+      "abbrev": "NYC",
+      "region": "New York",
+      "name": "Giants",
+      "imgURL": "https://content.sportslogos.net/logos/54/86/thumbs/7271.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/86/thumbs/7271.gif",
+      "colors": [
+        "#000000",
+        "#002db3",
+        "#ffffff"
+      ],
+      "jersey": "baseball4:hat3",
+      "cid": 1,
+      "did": 7,
+      "pop": 21.5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 13,
+      "abbrev": "PHI",
+      "region": "Philadelphia",
+      "name": "Phillies",
+      "imgURL": "https://content.sportslogos.net/logos/54/70/thumbs/7052411901.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/70/thumbs/7052411901.gif",
+      "colors": [
+        "#000000",
+        "#ffffff",
+        "#000000"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 5.5,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 14,
+      "abbrev": "PIT",
+      "region": "Pittsburgh",
+      "name": "Pirates",
+      "imgURL": "https://content.sportslogos.net/logos/54/71/thumbs/7172351900.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/71/thumbs/7172351900.gif",
+      "colors": [
+        "#002feb",
+        "#000000",
+        "#ffffff"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 1.7,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    },
+    {
+      "tid": 15,
+      "abbrev": "STL",
+      "region": "St. Louis",
+      "name": "Cardinals",
+      "imgURL": "https://content.sportslogos.net/logos/54/72/thumbs/eq4b3gtidxf3q8je0h7y.gif",
+      "imgURLSmall": "https://content.sportslogos.net/logos/54/72/thumbs/eq4b3gtidxf3q8je0h7y.gif",
+      "colors": [
+        "#da1b1b",
+        "#000000",
+        "#ffffff"
+      ],
+      "jersey": "baseball2:hat2",
+      "cid": 1,
+      "did": 7,
+      "pop": 2.2,
+      "stadiumCapacity": 50000,
+      "disabled": false
+    }
+  ],
+  "gameAttributes": {
+    "aiJerseyRetirement": true,
+    "aiTradesFactor": 1,
+    "allStarGame": null,
+    "allStarNum": 24,
+    "allStarType": "byConf",
+    "autoDeleteOldBoxScores": true,
+    "autoExpandGeo": "naFirst",
+    "autoExpandMaxNumTeams": 40,
+    "autoExpandNumTeams": 2,
+    "autoExpandProb": 0,
+    "autoRelocateGeo": "naFirst",
+    "autoRelocateProb": 0,
+    "autoRelocateRealign": true,
+    "autoRelocateRebrand": true,
+    "balkFactor": 1,
+    "brotherRate": 0.02,
+    "budget": true,
+    "challengeFiredLuxuryTax": false,
+    "challengeFiredMissPlayoffs": false,
+    "challengeLoseBestPlayer": false,
+    "challengeNoDraftPicks": false,
+    "challengeNoFreeAgents": false,
+    "challengeNoRatings": false,
+    "challengeNoTrades": false,
+    "challengeSisyphusMode": false,
+    "challengeThanosMode": 0,
+    "confs": [
+      {
+        "cid": 0,
+        "name": "American League"
+      },
+      {
+        "cid": 1,
+        "name": "National League"
+      }
+    ],
+    "contactFactor": 1,
+    "daysLeft": 0,
+    "defaultStadiumCapacity": 50000,
+    "dh": [
+      0
+    ],
+    "divs": [
+      {
+        "did": 6,
+        "cid": 0,
+        "name": "American League"
+      },
+      {
+        "did": 7,
+        "cid": 1,
+        "name": "National League"
+      }
+    ],
+    "draftAges": [
+      18,
+      22
+    ],
+    "draftLotteryCustomChances": [
+      140,
+      140,
+      140,
+      125,
+      105,
+      90,
+      75,
+      60,
+      45,
+      30,
+      20,
+      15,
+      10,
+      5
+    ],
+    "draftLotteryCustomNumPicks": 4,
+    "draftPickAutoContract": false,
+    "draftPickAutoContractPercent": 20,
+    "draftPickAutoContractRounds": 4,
+    "draftType": "freeAgents",
+    "equalizeRegions": false,
+    "flyFactor": 1,
+    "forceRetireAge": 0,
+    "forceRetireSeasons": 0,
+    "foulFactor": 1,
+    "gender": "male",
+    "giveMeWorstRoster": false,
+    "groundFactor": 1,
+    "groupScheduleSeries": true,
+    "heightFactor": 1,
+    "hideDisabledTeams": false,
+    "hitByPitchFactor": 1,
+    "hitFactor": 1,
+    "hofFactor": 1,
+    "homeCourtAdvantage": 1,
+    "inflationAvg": 0,
+    "inflationMax": 0,
+    "inflationMin": 0,
+    "inflationStd": 0,
+    "injuryRate": 0.00045,
+    "lineFactor": 1,
+    "luxuryPayroll": null,
+    "luxuryTax": 0,
+    "maxContract": 160,
+    "maxContractLength": 5,
+    "maxOvertimes": null,
+    "maxOvertimesPlayoffs": null,
+    "maxRosterSize": 30,
+    "minContract": 30,
+    "minContractLength": 1,
+    "minPayroll": 0,
+    "minRetireAge": 26,
+    "minRosterSize": 21,
+    "numDraftRounds": 5,
+    "numGames": 140,
+    "numGamesConf": null,
+    "numGamesDiv": 140,
+    "numGamesPlayoffSeries": [
+      7
+    ],
+    "numPeriods": 9,
+    "numPlayoffByes": 0,
+    "numSeasonsFutureDraftPicks": 0,
+    "numWatchColors": 1,
+    "otl": false,
+    "passedBallFactor": 1,
+    "playIn": false,
+    "playerMoodTraits": true,
+    "playersRefuseToNegotiate": true,
+    "playoffsByConf": false,
+    "playoffsNumTeamsDiv": 1,
+    "playoffsReseed": false,
+    "pointsFormula": "",
+    "powerFactor": 1,
+    "rookieContractLengths": [
+      3,
+      2
+    ],
+    "rookiesCanRefuse": true,
+    "salaryCap": 2885,
+    "salaryCapType": "none",
+    "shootoutRounds": 0,
+    "shootoutRoundsPlayoffs": 0,
+    "softCapTradeSalaryMatch": 125,
+    "sonRate": 0.02,
+    "spectator": false,
+    "stealFactor": 1,
+    "stopOnInjury": false,
+    "stopOnInjuryGames": 20,
+    "strikeFactor": 1,
+    "swingFactor": 1,
+    "throwOutFactor": 1,
+    "tiebreakers": [
+      "headToHeadRecord",
+      "divWinner",
+      "divRecordIfSame",
+      "confRecordIfSame",
+      "marginOfVictory",
+      "coinFlip"
+    ],
+    "tradeDeadline": 1,
+    "tragicDeathRate": 0.0001,
+    "weightFactor": 1,
+    "wildPitchFactor": 1
+  },
+  "scheduledEvents": [
+    {
+      "type": "teamInfo",
+      "season": 1902,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "region": "St. Louis",
+        "name": "Browns",
+        "abbrev": "SLB",
+        "imgURL": "https://content.sportslogos.net/logos/53/88/thumbs/8828431902.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/88/thumbs/8828431902.gif",
+        "colors": [
+          "#934908",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 2.2
+      },
+      "id": 0
+    },
+    {
+      "type": "teamInfo",
+      "season": 1902,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "region": "Cleveland",
+        "name": "Bronchos",
+        "abbrev": "CLE",
+        "imgURL": "https://content.sportslogos.net/logos/53/1454/full/7175.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/1454/full/7175.gif"
+      },
+      "id": 1
+    },
+    {
+      "type": "contraction",
+      "season": 1902,
+      "phase": 4,
+      "info": {
+        "tid": 0
+      },
+      "id": 2
+    },
+    {
+      "type": "teamInfo",
+      "season": 1902,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://content.sportslogos.net/logos/53/87/full/philadelphia_athletics_logo_primary_19024140.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/87/full/philadelphia_athletics_logo_primary_19024140.png"
+      },
+      "id": 3
+    },
+    {
+      "type": "teamInfo",
+      "season": 1902,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "imgURL": "https://content.sportslogos.net/logos/54/1463/full/6156.gif",
+        "imgURLsmall": "https://content.sportslogos.net/logos/54/1463/full/6156.gif"
+      },
+      "id": 4
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1903,
+      "phase": 0,
+      "info": {
+        "teams": [
+          {
+            "region": "New York",
+            "name": "Highlanders",
+            "pop": 21.5,
+            "colors": [
+              "#2d00a2",
+              "#ffffff",
+              "#000000"
+            ],
+            "jersey": "baseball4:hat1",
+            "abbrev": "NY",
+            "imgURL": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19084876.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19084876.png",
+            "tid": 16,
+            "cid": 0,
+            "did": 6
+          }
+        ]
+      },
+      "id": 5
+    },
+    {
+      "type": "teamInfo",
+      "season": 1902,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "region": "Cleveland",
+        "name": "Bronchos",
+        "abbrev": "CLE"
+      },
+      "id": 6
+    },
+    {
+      "type": "teamInfo",
+      "season": 1903,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "region": "Cleveland",
+        "name": "Naps",
+        "abbrev": "CLE"
+      },
+      "id": 7
+    },
+    {
+      "type": "teamInfo",
+      "season": 1903,
+      "phase": 0,
+      "info": {
+        "tid": 10,
+        "region": "Chicago",
+        "name": "Cubs",
+        "abbrev": "CHC",
+        "imgURL": "https://content.sportslogos.net/logos/54/54/full/7247.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/54/54/full/7247.png",
+        "colors": [
+          "#1037ad",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 8
+    },
+    {
+      "type": "teamInfo",
+      "season": 1903,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "imgURL": "https://content.sportslogos.net/logos/53/1456/full/7154.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/1456/full/7154.png"
+      },
+      "id": 9
+    },
+    {
+      "type": "teamInfo",
+      "season": 1903,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/7185.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/59/full/7185.png"
+      },
+      "id": 10
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1904,
+      "phase": 0,
+      "info": {
+        "numGames": 154,
+        "numGamesConf": null,
+        "numGamesDiv": 154
+      },
+      "id": 11
+    },
+    {
+      "type": "teamInfo",
+      "season": 1904,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "region": "Chicago",
+        "name": "White Sox",
+        "abbrev": "CWS",
+        "imgURL": "https://content.sportslogos.net/logos/53/55/full/7152.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/55/full/7152.png",
+        "colors": [
+          "#1037ad",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 12
+    },
+    {
+      "type": "teamInfo",
+      "season": 1904,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/7630_detroit_tigers-primary-1904.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/59/full/7630_detroit_tigers-primary-1904.png"
+      },
+      "id": 13
+    },
+    {
+      "type": "teamInfo",
+      "season": 1904,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "imgURL": "https://content.sportslogos.net/logos/53/1454/full/7176.gif",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/1454/full/7176.gif"
+      },
+      "id": 14
+    },
+    {
+      "type": "teamInfo",
+      "season": 1905,
+      "phase": 0,
+      "info": {
+        "tid": 16,
+        "imgURL": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19054627.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19054627.png"
+      },
+      "id": 15
+    },
+    {
+      "type": "teamInfo",
+      "season": 1905,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/54/56/full/7257.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/54/56/full/7257.png"
+      },
+      "id": 16
+    },
+    {
+      "type": "teamInfo",
+      "season": 1905,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "imgURL": "https://content.sportslogos.net/logos/53/1455/full/5946_cleveland_naps-primary-1905.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/1455/full/5946_cleveland_naps-primary-1905.png"
+      },
+      "id": 17
+    },
+    {
+      "type": "teamInfo",
+      "season": 1905,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/7186.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/59/full/7186.png"
+      },
+      "id": 18
+    },
+    {
+      "type": "teamInfo",
+      "season": 1906,
+      "phase": 0,
+      "info": {
+        "tid": 10,
+        "imgURL": "https://content.sportslogos.net/logos/54/54/full/7248.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/54/54/full/7248.png"
+      },
+      "id": 19
+    },
+    {
+      "type": "teamInfo",
+      "season": 1906,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "imgURL": "https://content.sportslogos.net/logos/53/55/full/7149.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/55/full/7149.png"
+      },
+      "id": 20
+    },
+    {
+      "type": "teamInfo",
+      "season": 1906,
+      "phase": 0,
+      "info": {
+        "tid": 16,
+        "imgURL": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19064738.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19064738.png"
+      },
+      "id": 21
+    },
+    {
+      "type": "teamInfo",
+      "season": 1906,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "imgURL": "https://content.sportslogos.net/logos/53/88/full/7209.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/53/88/full/7209.png"
+      },
+      "id": 22
+    },
+    {
+      "type": "teamInfo",
+      "season": 1906,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/54/56/full/7258.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/54/56/full/7258.png"
+      },
+      "id": 23
+    },
+    {
+      "type": "teamInfo",
+      "season": 1907,
+      "phase": 0,
+      "info": {
+        "tid": 10,
+        "imgURL": "https://content.sportslogos.net/logos/54/54/full/1099_chicago_cubs-primary-1907.png",
+        "imgURLsmall": "https://content.sportslogos.net/logos/54/54/full/1099_chicago_cubs-primary-1907.png"
+      },
+      "id": 24
+    },
+    {
+      "type": "teamInfo",
+      "season": 1907,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Boston",
+        "name": "Doves",
+        "abbrev": "BOS",
+        "imgURL": "https://content.sportslogos.net/logos/54/1460/thumbs/7240.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/1460/thumbs/7240.gif",
+        "colors": [
+          "#ad1010",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 25
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 1,
+        "region": "Boston",
+        "name": "Red Sox",
+        "abbrev": "BOS",
+        "imgURL": "https://content.sportslogos.net/logos/53/53/thumbs/7159.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/53/thumbs/7159.gif",
+        "colors": [
+          "#ad1010",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 26
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://content.sportslogos.net/logos/54/86/thumbs/7326.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/86/thumbs/7326.gif"
+      },
+      "id": 27
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "imgURL": "https://content.sportslogos.net/logos/54/71/thumbs/7352.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/71/thumbs/7352.gif"
+      },
+      "id": 28
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "imgURL": "https://content.sportslogos.net/logos/53/88/thumbs/8899801908.gif"
+      },
+      "id": 29
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://content.sportslogos.net/logos/53/87/thumbs/7173.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/87/thumbs/7173.gif"
+      },
+      "id": 30
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/thumbs/7187.gif"
+      },
+      "id": 31
+    },
+    {
+      "type": "teamInfo",
+      "season": 1908,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brooklyn_Dodgers_1910-1913_logo.png",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Brooklyn_Dodgers_1910-1913_logo.png"
+      },
+      "id": 32
+    },
+    {
+      "type": "teamInfo",
+      "season": 1909,
+      "phase": 0,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://content.sportslogos.net/logos/53/53/full/7445_boston_red_sox-primary-1909.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/53/full/7445_boston_red_sox-primary-1909.png"
+      },
+      "id": 33
+    },
+    {
+      "type": "teamInfo",
+      "season": 1909,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://content.sportslogos.net/logos/54/1460/thumbs/7245.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/1460/thumbs/7245.gif"
+      },
+      "id": 34
+    },
+    {
+      "type": "teamInfo",
+      "season": 1909,
+      "phase": 0,
+      "info": {
+        "tid": 16,
+        "imgURL": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19094368.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/1453/full/new_york_highlanders_logo_primary_19094368.png"
+      },
+      "id": 35
+    },
+    {
+      "type": "teamInfo",
+      "season": 1909,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "imgURL": "https://content.sportslogos.net/logos/54/1463/full/vqlfesd2l6tga4fh87odfe356.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/1463/full/vqlfesd2l6tga4fh87odfe356.gif"
+      },
+      "id": 36
+    },
+    {
+      "type": "teamInfo",
+      "season": 1910,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/1094_philadelphia_phillies-primary-1910.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/70/full/1094_philadelphia_phillies-primary-1910.png"
+      },
+      "id": 37
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1910,
+      "phase": 0,
+      "info": {
+        "maxContract": 300,
+        "minContract": 30,
+        "salaryCap": 4950
+      },
+      "id": 38
+    },
+    {
+      "type": "teamInfo",
+      "season": 1911,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Boston",
+        "name": "Rustlers",
+        "abbrev": "BOS",
+        "imgURL": "https://i1.wp.com/www.retroseasons.com/retroimages/0-logo-BATLB-1911.gif",
+        "imgURLSmall": "https://i1.wp.com/www.retroseasons.com/retroimages/0-logo-BATLB-1911.gif",
+        "colors": [
+          "#1210ad",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 39
+    },
+    {
+      "type": "teamInfo",
+      "season": 1911,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "region": "Brooklyn",
+        "name": "Trolley Dodgers",
+        "colors": [
+          "#1210ad",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 40
+    },
+    {
+      "type": "teamInfo",
+      "season": 1911,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/8223_philadelphia_phillies-primary-1911.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/70/full/8223_philadelphia_phillies-primary-1911.png"
+      },
+      "id": 41
+    },
+    {
+      "type": "teamInfo",
+      "season": 1912,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://content.sportslogos.net/logos/54/81/full/amn9nh7zoswh32wsqqa9.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/81/full/amn9nh7zoswh32wsqqa9.png"
+      },
+      "id": 42
+    },
+    {
+      "type": "teamInfo",
+      "season": 1912,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "imgURL": "https://content.sportslogos.net/logos/53/55/full/c2vhdvooe4c1i8j6930y0s9go.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/55/full/c2vhdvooe4c1i8j6930y0s9go.png"
+      },
+      "id": 43
+    },
+    {
+      "type": "teamInfo",
+      "season": 1912,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Boston",
+        "name": "Braves",
+        "abbrev": "BOS",
+        "colors": [
+          "#1210ad",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2"
+      },
+      "id": 44
+    },
+    {
+      "type": "teamInfo",
+      "season": 1913,
+      "phase": 0,
+      "info": {
+        "tid": 16,
+        "region": "New York",
+        "name": "Yankees",
+        "abbrev": "NYY",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/3/35/Yankees_logo.png"
+      },
+      "id": 45
+    },
+    {
+      "type": "teamInfo",
+      "season": 1913,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_19135846.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_19135846.png"
+      },
+      "id": 46
+    },
+    {
+      "type": "teamInfo",
+      "season": 1913,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "region": "Brooklyn",
+        "name": "Dodgers"
+      },
+      "id": 47
+    },
+    {
+      "type": "teamInfo",
+      "season": 1914,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "region": "Brooklyn",
+        "name": "Robins"
+      },
+      "id": 48
+    },
+    {
+      "type": "teamInfo",
+      "season": 1915,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/3026_philadelphia_phillies-primary-1900.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/70/full/3026_philadelphia_phillies-primary-1900.png"
+      },
+      "id": 49
+    },
+    {
+      "type": "teamInfo",
+      "season": 1916,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "region": "Cleveland",
+        "name": "Indians"
+      },
+      "id": 50
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1919,
+      "phase": 0,
+      "info": {
+        "numGames": 140,
+        "numGamesConf": null,
+        "numGamesDiv": 140
+      },
+      "id": 51
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1920,
+      "phase": 0,
+      "info": {
+        "maxContract": 312,
+        "minContract": 30,
+        "salaryCap": 5130
+      },
+      "id": 52
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1920,
+      "phase": 0,
+      "info": {
+        "numGames": 154,
+        "numGamesConf": null,
+        "numGamesDiv": 154
+      },
+      "id": 53
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1930,
+      "phase": 0,
+      "info": {
+        "maxContract": 560,
+        "minContract": 30,
+        "salaryCap": 8850
+      },
+      "id": 54
+    },
+    {
+      "type": "teamInfo",
+      "season": 1932,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "region": "Brooklyn",
+        "name": "Dodgers"
+      },
+      "id": 55
+    },
+    {
+      "type": "teamInfo",
+      "season": 1932,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Boston",
+        "name": "Bees"
+      },
+      "id": 56
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1933,
+      "phase": 0,
+      "info": {
+        "allStarGame": 0.5,
+        "allStarNum": 24,
+        "allStarType": "byConf"
+      },
+      "id": 57
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1940,
+      "phase": 0,
+      "info": {
+        "maxContract": 613,
+        "minContract": 40,
+        "salaryCap": 9790
+      },
+      "id": 58
+    },
+    {
+      "type": "teamInfo",
+      "season": 1941,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Boston",
+        "name": "Braves"
+      },
+      "id": 59
+    },
+    {
+      "type": "teamInfo",
+      "season": 1942,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "region": "Philadelphia",
+        "name": "Phils"
+      },
+      "id": 60
+    },
+    {
+      "type": "teamInfo",
+      "season": 1943,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "region": "Philadelphia",
+        "name": "Phillies"
+      },
+      "id": 61
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1950,
+      "phase": 0,
+      "info": {
+        "maxContract": 712,
+        "minContract": 40,
+        "salaryCap": 11280
+      },
+      "id": 62
+    },
+    {
+      "type": "teamInfo",
+      "season": 1953,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "region": "Cincinnati",
+        "name": "Redlegs"
+      },
+      "id": 63
+    },
+    {
+      "type": "teamInfo",
+      "season": 1953,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Milwaukee",
+        "name": "Braves",
+        "abbrev": "MLW",
+        "imgURL": "https://content.sportslogos.net/logos/54/84/thumbs/8440961953.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/84/thumbs/8440961953.gif",
+        "colors": [
+          "#d40202",
+          "#934908",
+          "#e2eb09"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 1.5
+      },
+      "id": 64
+    },
+    {
+      "type": "teamInfo",
+      "season": 1954,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "region": "Baltimore",
+        "name": "Orioles",
+        "abbrev": "BLT",
+        "imgURL": "https://content.sportslogos.net/logos/53/52/thumbs/4rzjwfztogqmfzomv44xxzgc8.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/thumbs/4rzjwfztogqmfzomv44xxzgc8.gif",
+        "colors": [
+          "#fe7e0d",
+          "#000000",
+          "#ffffff"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 2.83
+      },
+      "id": 65
+    },
+    {
+      "type": "teamInfo",
+      "season": 1955,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "region": "Kansas City",
+        "name": "Athletics",
+        "abbrev": "KCA",
+        "imgURL": "https://content.sportslogos.net/logos/53/52/thumbs/4rzjwfztogqmfzomv44xxzgc8.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/thumbs/4rzjwfztogqmfzomv44xxzgc8.gif",
+        "colors": [
+          "#c40202",
+          "#ffffff",
+          "#000000"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 1.71
+      },
+      "id": 66
+    },
+    {
+      "type": "teamInfo",
+      "season": 1958,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "region": "Los Angeles",
+        "name": "Dodgers",
+        "abbrev": "LAD",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Los_Angeles_Dodgers_Logo.svg",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/dodgers_wbgs.png",
+        "colors": [
+          "#0f02c4",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 18.3
+      },
+      "id": 67
+    },
+    {
+      "type": "teamInfo",
+      "season": 1958,
+      "phase": 0,
+      "info": {
+        "tid": 12,
+        "region": "San Fransisco",
+        "name": "Giants",
+        "abbrev": "SF",
+        "imgURL": "https://content.sportslogos.net/logos/54/74/thumbs/7497101958.gif",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/6/68/San_Francisco_Giants_logo.png",
+        "colors": [
+          "#ff9404",
+          "#000000",
+          "#ffffff"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 7.753
+      },
+      "id": 68
+    },
+    {
+      "type": "teamInfo",
+      "season": 1959,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "region": "Cincinnati",
+        "name": "Reds"
+      },
+      "id": 69
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1960,
+      "phase": 0,
+      "info": {
+        "maxContract": 884,
+        "minContract": 56,
+        "salaryCap": 13500
+      },
+      "id": 70
+    },
+    {
+      "type": "teamInfo",
+      "season": 1960,
+      "phase": 4,
+      "info": {
+        "tid": 7,
+        "region": "Minnesota",
+        "name": "Twins",
+        "abbrev": "MIN",
+        "imgURL": "https://content.sportslogos.net/logos/53/65/thumbs/j99k3cvpkhehnf9hbwjttn2f1.gif",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/65/full/1196.png",
+        "colors": [
+          "#0d9fc6",
+          "#c60000",
+          "#ffffff"
+        ],
+        "jersey": "baseball2:hat2",
+        "\"pop\"": 5.717
+      },
+      "id": 71
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1960,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Los Angeles",
+            "name": "Angels",
+            "pop": 18.3,
+            "colors": [
+              "#d80000",
+              "#230cff",
+              "#999999"
+            ],
+            "jersey": "baseball4:hat1",
+            "abbrev": "LAA",
+            "imgURL": "https://content.sportslogos.net/logos/53/591/full/493.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/591/full/493.png",
+            "tid": 17,
+            "cid": 0,
+            "did": 6
+          },
+          {
+            "region": "Washington",
+            "name": "Senators",
+            "pop": 9.5,
+            "colors": [
+              "#d80000",
+              "#230cff",
+              "#ffffff"
+            ],
+            "jersey": "baseball4:hat1",
+            "abbrev": "WSH",
+            "imgURL": "https://content.sportslogos.net/logos/53/79/full/washington_senators_logo_primary_19614589.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/79/full/washington_senators_logo_primary_19614589.png",
+            "tid": 18,
+            "cid": 0,
+            "did": 6
+          }
+        ]
+      },
+      "id": 72
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1961,
+      "phase": 0,
+      "info": {
+        "numGames": 162,
+        "numGamesConf": null,
+        "numGamesDiv": 162
+      },
+      "id": 73
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1961,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Houston",
+            "name": "Colt .45s",
+            "pop": 2.303,
+            "colors": [
+              "#fe881f",
+              "#346efa",
+              "#ffffff"
+            ],
+            "jersey": "baseball4:hat3",
+            "abbrev": "HOU",
+            "imgURL": "https://content.sportslogos.net/logos/54/991/full/1094.gif",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/991/thumbs/1095.gif",
+            "tid": 19,
+            "cid": 1,
+            "did": 7
+          },
+          {
+            "region": "New York",
+            "name": "Mets",
+            "pop": 19.6,
+            "colors": [
+              "#fd860e",
+              "#230cff",
+              "#ffffff"
+            ],
+            "jersey": "baseball3:hat1",
+            "abbrev": "NYM",
+            "imgURL": "https://content.sportslogos.net/logos/54/67/full/34fklmt62f7bpq20uisaruz8d.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/67/full/6526_new_york_mets-cap-1962.png",
+            "tid": 20,
+            "cid": 1,
+            "did": 7
+          }
+        ]
+      },
+      "id": 74
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1965,
+      "phase": 0,
+      "info": {
+        "draftType": "noLottery"
+      },
+      "id": 75
+    },
+    {
+      "type": "teamInfo",
+      "season": 1965,
+      "phase": 0,
+      "info": {
+        "tid": 17,
+        "region": "California",
+        "name": "Angels",
+        "imgURL": "https://content.sportslogos.net/logos/53/592/full/california_angels_logo_primary_19654955.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/592/full/california_angels_logo_primary_19654955.png"
+      },
+      "id": 76
+    },
+    {
+      "type": "teamInfo",
+      "season": 1965,
+      "phase": 0,
+      "info": {
+        "tid": 19,
+        "region": "Houston",
+        "name": "Astros",
+        "imgURL": "https://content.sportslogos.net/logos/54/61/full/houston_astros_logo_primary_19656328.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/61/full/houston_astros_logo_primary_19656328.png"
+      },
+      "id": 77
+    },
+    {
+      "type": "teamInfo",
+      "season": 1966,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "region": "Atlanta",
+        "name": "Braves",
+        "pop": 5.1,
+        "imgURL": "https://content.sportslogos.net/logos/54/51/full/1225_atlanta_braves-primary-1966.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/51/full/1225_atlanta_braves-primary-1966.png"
+      },
+      "id": 78
+    },
+    {
+      "type": "teamInfo",
+      "season": 1968,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "region": "Oakland",
+        "name": "Athletics",
+        "pop": 0.44,
+        "colors": [
+          "#02c423",
+          "#ffba11",
+          "#ffffff"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/53/69/full/5592_oakland_athletics-primary-1968.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/69/full/5592_oakland_athletics-primary-1968.png"
+      },
+      "id": 79
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1968,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Seattle",
+            "name": "Pilots",
+            "pop": 4.02,
+            "colors": [
+              "#fe1f1f",
+              "#346efa",
+              "#fde51d"
+            ],
+            "jersey": "baseball1:hat2",
+            "abbrev": "SEA",
+            "imgURL": "https://content.sportslogos.net/logos/53/89/full/1297.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/89/full/1297.png",
+            "tid": 21,
+            "cid": 0,
+            "did": 6
+          },
+          {
+            "region": "Kansas City",
+            "name": "Royals",
+            "pop": 2.2,
+            "colors": [
+              "#fdbd0e",
+              "#230cff",
+              "#ffffff"
+            ],
+            "jersey": "baseball1:hat4",
+            "abbrev": "KC",
+            "imgURL": "https://content.sportslogos.net/logos/53/62/full/kansas_city_royals_logo_primary_19698198.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/62/full/kansas_city_royals_logo_primary_19698198.png",
+            "tid": 22,
+            "cid": 0,
+            "did": 6
+          },
+          {
+            "region": "San Diego",
+            "name": "Padres",
+            "pop": 1.3,
+            "colors": [
+              "#f5ff2b",
+              "#f4b506",
+              "#ffffff"
+            ],
+            "jersey": "baseball4:hat3",
+            "abbrev": "SD",
+            "imgURL": "https://content.sportslogos.net/logos/54/73/full/x5qgaefxmvbsmrkzw3k8qggwr.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/73/full/x5qgaefxmvbsmrkzw3k8qggwr.png",
+            "tid": 23,
+            "cid": 1,
+            "did": 7
+          },
+          {
+            "region": "Montreal",
+            "name": "Expos",
+            "pop": 4.29,
+            "colors": [
+              "#fd0e0e",
+              "#230cff",
+              "#ffffff"
+            ],
+            "jersey": "baseball2:hat3",
+            "abbrev": "MON",
+            "imgURL": "https://content.sportslogos.net/logos/54/66/full/montreal_expos_logo_primary_19693697.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/66/full/montreal_expos_logo_primary_19693697.png",
+            "tid": 24,
+            "cid": 1,
+            "did": 7
+          }
+        ]
+      },
+      "id": 80
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "divs": [
+          {
+            "did": 6,
+            "cid": 0,
+            "name": "AL East"
+          },
+          {
+            "did": 7,
+            "cid": 1,
+            "name": "NL East"
+          },
+          {
+            "did": 8,
+            "cid": 0,
+            "name": "AL West"
+          },
+          {
+            "did": 9,
+            "cid": 1,
+            "name": "NL West"
+          }
+        ],
+        "numGames": 162,
+        "numGamesConf": 72,
+        "numGamesDiv": 90,
+        "numGamesPlayoffSeries": [
+          5,
+          7
+        ],
+        "playoffsByConf": true
+      },
+      "id": 81
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "did": 8
+      },
+      "id": 82
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "did": 8
+      },
+      "id": 83
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 7,
+        "did": 8
+      },
+      "id": 84
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 17,
+        "did": 8
+      },
+      "id": 85
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 21,
+        "did": 8
+      },
+      "id": 86
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 22,
+        "did": 8
+      },
+      "id": 87
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "did": 9
+      },
+      "id": 88
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "did": 9
+      },
+      "id": 89
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "did": 9
+      },
+      "id": 90
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 12,
+        "did": 9
+      },
+      "id": 91
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 19,
+        "did": 9
+      },
+      "id": 92
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 24,
+        "did": 9
+      },
+      "id": 93
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "colors": [
+          "#ffea04",
+          "#000000",
+          "#ffffff"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/71/full/7xkp9hnp9jq11e1zia4tdcqjh.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/71/full/7xkp9hnp9jq11e1zia4tdcqjh.png"
+      },
+      "id": 94
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 10,
+        "colors": [
+          "#ff0404",
+          "#0c1aff",
+          "#ffffff"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/54/full/chicago_cubs_logo_primary_19575973.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/54/full/chicago_cubs_logo_primary_19575973.png"
+      },
+      "id": 95
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 16,
+        "imgURL": "https://content.sportslogos.net/logos/53/68/full/new_york_yankees_logo_primary_19685115.png"
+      },
+      "id": 96
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "colors": [
+          "#ff0404",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_19501381.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_19501381.png"
+      },
+      "id": 97
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "colors": [
+          "#fcfcfc",
+          "#ffa316",
+          "#000000"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_19641881.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_19641881.png"
+      },
+      "id": 98
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "colors": [
+          "#000000",
+          "#ff9016",
+          "#fcfcfc"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_19664297.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_19664297.png"
+      },
+      "id": 99
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 1,
+        "imgURL": "https://content.sportslogos.net/logos/53/53/full/boston_red_sox_logo_primary_19616751.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/53/full/boston_red_sox_logo_primary_19616751.png"
+      },
+      "id": 100
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "imgURL": "https://content.sportslogos.net/logos/53/55/full/7488ebs2b1ade8kuoybbll7n8.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/55/full/7488ebs2b1ade8kuoybbll7n8.png"
+      },
+      "id": 101
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_19684349.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_19684349.png"
+      },
+      "id": 102
+    },
+    {
+      "type": "teamInfo",
+      "season": 1969,
+      "phase": 0,
+      "info": {
+        "tid": 15,
+        "imgURL": "https://content.sportslogos.net/logos/54/72/full/2281.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/72/full/2281.png"
+      },
+      "id": 103
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1970,
+      "phase": 0,
+      "info": {
+        "maxContract": 1000,
+        "minContract": 96,
+        "salaryCap": 16400
+      },
+      "id": 104
+    },
+    {
+      "type": "teamInfo",
+      "season": 1970,
+      "phase": 0,
+      "info": {
+        "region": "Milwaukee",
+        "name": "Brewers",
+        "pop": 1.46,
+        "tid": 21,
+        "colors": [
+          "#0008fe",
+          "#ffec16",
+          "#ffffff"
+        ],
+        "abbrev": "MIL",
+        "imgURL": "https://content.sportslogos.net/logos/53/1477/full/milwaukee_brewers_logo_primary_19705142.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/1477/full/milwaukee_brewers_logo_primary_19705142.png"
+      },
+      "id": 105
+    },
+    {
+      "type": "teamInfo",
+      "season": 1972,
+      "phase": 0,
+      "info": {
+        "region": "Texas",
+        "name": "Rangers",
+        "pop": 8.1,
+        "tid": 18,
+        "colors": [
+          "#2930ee",
+          "#ff1716",
+          "#ffffff"
+        ],
+        "abbrev": "TEX",
+        "imgURL": "https://content.sportslogos.net/logos/53/77/full/1371.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/77/full/1371.png",
+        "did": 8
+      },
+      "id": 106
+    },
+    {
+      "type": "teamInfo",
+      "season": 1972,
+      "phase": 0,
+      "info": {
+        "tid": 21,
+        "did": 6
+      },
+      "id": 107
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1976,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Toronto",
+            "name": "Blue Jays",
+            "pop": 5.92,
+            "colors": [
+              "#fe1f1f",
+              "#346efa",
+              "#ffffff"
+            ],
+            "jersey": "baseball4:hat3",
+            "abbrev": "TOR",
+            "imgURL": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_1977_sportslogosnet-3388.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/78/full/wcq5l2h3sugh536gzg9pqya8e.png",
+            "tid": 25,
+            "cid": 0,
+            "did": 6
+          },
+          {
+            "region": "Seattle",
+            "name": "Mariners",
+            "pop": 4.02,
+            "colors": [
+              "#fdd00e",
+              "#000099",
+              "#a39d9d"
+            ],
+            "jersey": "baseball1:hat4",
+            "abbrev": "SEA",
+            "imgURL": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19779169.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19779169.png",
+            "tid": 26,
+            "cid": 0,
+            "did": 8
+          }
+        ]
+      },
+      "id": 108
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1979,
+      "phase": 0,
+      "info": {
+        "numGames": 162,
+        "numGamesConf": 84,
+        "numGamesDiv": 78
+      },
+      "id": 109
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 4,
+      "info": {
+        "tid": 2,
+        "imgURL": "https://content.sportslogos.net/logos/53/55/full/chicago_white_sox_logo_primary_19765717.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/55/full/5535_chicago_white_sox-cap-1976.png"
+      },
+      "id": 110
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 4,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://content.sportslogos.net/logos/53/69/full/ydt3406ddwhd2pncda6epyoh4.png",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/oakland_a_wbgs.png"
+      },
+      "id": 111
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 4,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://content.sportslogos.net/logos/53/1477/full/milwaukee_brewers_logo_primary_19783529.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/1477/full/milwaukee_brewers_logo_primary_19783529.png"
+      },
+      "id": 112
+    },
+    {
+      "type": "teamInfo",
+      "season": 1979,
+      "phase": 4,
+      "info": {
+        "tid": 17,
+        "imgURL": "https://content.sportslogos.net/logos/53/592/full/california_angels_logo_primary_19732117.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/592/full/2262.gif"
+      },
+      "id": 113
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1980,
+      "phase": 0,
+      "info": {
+        "maxContract": 4260,
+        "minContract": 113,
+        "salaryCap": 32000
+      },
+      "id": 114
+    },
+    {
+      "type": "teamInfo",
+      "season": 1980,
+      "phase": 4,
+      "info": {
+        "tid": 13,
+        "colors": [
+          "#b40303",
+          "#ffffff",
+          "#ffffff"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_19819115.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/70/full/9234_philadelphia_phillies-alternate-1973.png"
+      },
+      "id": 115
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "maxContract": 7640,
+        "minContract": 240,
+        "salaryCap": 41700
+      },
+      "id": 116
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "imgURL": "https://content.sportslogos.net/logos/54/71/full/2309.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/71/full/1250_pittsburgh_pirates-primary-2014.png"
+      },
+      "id": 117
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://content.sportslogos.net/logos/54/51/full/3kgwjp6heowkeg3w8zoow9ggy.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/51/full/hgn67ue79bffz6zalcadl4ygp.gif"
+      },
+      "id": 118
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 17,
+        "imgURL": "https://content.sportslogos.net/logos/53/592/full/california_angels_logo_primary_19863708.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/592/full/california_angels_logo_primary_19863708.png"
+      },
+      "id": 119
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://content.sportslogos.net/logos/53/69/full/gxyi5nc8yptah3ju6ab0ylc2y.png",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/oakland_a_wbgs.png"
+      },
+      "id": 120
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 18,
+        "imgURL": "https://content.sportslogos.net/logos/53/77/full/rkp4czhvzb9c6ur4ml3f1ghhm.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/77/full/rkp4czhvzb9c6ur4ml3f1ghhm.png"
+      },
+      "id": 121
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19875479.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19875479.png"
+      },
+      "id": 122
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 12,
+        "imgURL": "https://content.sportslogos.net/logos/54/74/full/h1wtplsqu22t4jwu5kmnyuefv.png",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/6/68/San_Francisco_Giants_logo.png"
+      },
+      "id": 123
+    },
+    {
+      "type": "teamInfo",
+      "season": 1990,
+      "phase": 0,
+      "info": {
+        "tid": 24,
+        "imgURL": "https://content.sportslogos.net/logos/54/73/full/m566u01h7d3afjnweeisxc4xe.png",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SD_Logo_Brown.svg/1200px-SD_Logo_Brown.svg.png"
+      },
+      "id": 123
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1992,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Florida",
+            "name": "Marlins",
+            "pop": 6.21,
+            "colors": [
+              "#000000",
+              "#0398d5",
+              "#fc2d2d"
+            ],
+            "jersey": "baseball2:hat1",
+            "abbrev": "FLR",
+            "imgURL": "https://content.sportslogos.net/logos/54/60/full/florida_marlins_logo_primary_19935464.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/60/full/j2ulpedeq63pgd44glpkdtt7i.png",
+            "tid": 27,
+            "cid": 1,
+            "did": 7
+          },
+          {
+            "region": "Colorado",
+            "name": "Rockies",
+            "pop": 5.84,
+            "colors": [
+              "#000099",
+              "#ffffff",
+              "#a39d9d"
+            ],
+            "jersey": "baseball3:hat1",
+            "abbrev": "CLR",
+            "imgURL": "https://content.sportslogos.net/logos/54/58/full/colorado_rockies_logo_primary_19932879.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/58/full/5i1eqlvazhlm5ejgydefg84dt.png",
+            "tid": 28,
+            "cid": 1,
+            "did": 9
+          }
+        ]
+      },
+      "id": 125
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "divs": [
+          {
+            "did": 6,
+            "cid": 0,
+            "name": "AL East"
+          },
+          {
+            "did": 7,
+            "cid": 1,
+            "name": "NL East"
+          },
+          {
+            "did": 8,
+            "cid": 0,
+            "name": "AL West"
+          },
+          {
+            "did": 9,
+            "cid": 1,
+            "name": "NL West"
+          },
+          {
+            "did": 10,
+            "cid": 0,
+            "name": "AL Central"
+          },
+          {
+            "did": 11,
+            "cid": 1,
+            "name": "NL Central"
+          }
+        ],
+        "numGames": 162,
+        "numGamesConf": 110,
+        "numGamesDiv": 52,
+        "numGamesPlayoffSeries": [
+          5,
+          7,
+          7
+        ]
+      },
+      "id": 126
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "did": 10
+      },
+      "id": 127
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 22,
+        "did": 10
+      },
+      "id": 128
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 7,
+        "did": 10
+      },
+      "id": 129
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 21,
+        "did": 10
+      },
+      "id": 130
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 10,
+        "did": 11
+      },
+      "id": 131
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "did": 11
+      },
+      "id": 132
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 15,
+        "did": 11
+      },
+      "id": 133
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 19,
+        "did": 11
+      },
+      "id": 134
+    },
+    {
+      "type": "teamInfo",
+      "season": 1994,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "did": 11
+      },
+      "id": 135
+    },
+    {
+      "type": "gameAttributes",
+      "season": 1997,
+      "phase": 0,
+      "info": {
+        "numGames": 162,
+        "numGamesDiv": 76,
+        "numGamesConf": 66,
+        "luxuryPayroll": 99000,
+        "luxuryTax": 1.34
+      },
+      "id": 136
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 0,
+      "info": {
+        "tid": 17,
+        "region": "Anaheim",
+        "name": "Angels",
+        "imgURL": "https://content.sportslogos.net/logos/53/49/full/anaheim_angels_logo_primary_19973619.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/49/full/gasktpevr19afvpeoekpjrder.gif"
+      },
+      "id": 137
+    },
+    {
+      "type": "expansionDraft",
+      "season": 1997,
+      "phase": 4,
+      "info": {
+        "teams": [
+          {
+            "region": "Arizona",
+            "name": "Diamondbacks",
+            "pop": 7.35,
+            "colors": [
+              "#bf00fe",
+              "#048cdb",
+              "#957603"
+            ],
+            "jersey": "baseball4:hat2",
+            "abbrev": "ARZ",
+            "imgURL": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_19981620.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_19981620.png",
+            "tid": 29,
+            "cid": 1,
+            "did": 9
+          },
+          {
+            "region": "Tampa Bay",
+            "name": "Devil Rays",
+            "pop": 3.17,
+            "colors": [
+              "#020259",
+              "#0078be",
+              "#02c428"
+            ],
+            "jersey": "baseball3:hat1",
+            "abbrev": "CLR",
+            "imgURL": "https://content.sportslogos.net/logos/53/76/full/tampa_bay_devil_rays_logo_primary_19982847.png",
+            "imgURLSmall": "https://content.sportslogos.net/logos/53/76/full/tampa_bay_devil_rays_logo_primary_19982847.png",
+            "tid": 30,
+            "cid": 0,
+            "did": 6
+          }
+        ]
+      },
+      "id": 138
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 4,
+      "info": {
+        "tid": 22,
+        "cid": 1,
+        "did": 11
+      },
+      "id": 139
+    },
+    {
+      "type": "teamInfo",
+      "season": 1997,
+      "phase": 4,
+      "info": {
+        "tid": 3,
+        "did": 10
+      },
+      "id": 140
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "maxContract": 28470,
+        "minContract": 362,
+        "salaryCap": 101950
+      },
+      "id": 141
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_19941509.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/59/full/u2jelkdnhfxbda2vmnsggv6hf.gif"
+      },
+      "id": 142
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "imgURL": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_19999188.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_19999188.png"
+      },
+      "id": 143
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 22,
+        "imgURL": "https://content.sportslogos.net/logos/54/64/full/milwaukee_brewers_logo_primary_20004922.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/64/full/2244_milwaukee_brewers-alternate-2000.png"
+      },
+      "id": 144
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 26,
+        "imgURL": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_19975318.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_19975318.png"
+      },
+      "id": 145
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 18,
+        "imgURL": "https://content.sportslogos.net/logos/53/77/full/iujd65xfkrfaovlu1hzd17kst.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/77/full/iujd65xfkrfaovlu1hzd17kst.png"
+      },
+      "id": 146
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 2,
+        "imgURL": "https://content.sportslogos.net/logos/53/55/full/chicago_white_sox_logo_primary_19911413.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/55/full/chicago_white_sox_logo_primary_19911413.png"
+      },
+      "id": 147
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "imgURL": "https://content.sportslogos.net/logos/53/69/full/6xk2lpc36146pbg2kydf13e50.png"
+      },
+      "id": 148
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19933809.png",
+        "imgURLSmall": "https://b.fssta.com/uploads/application/mlb/team-logos/Mariners.vresize.350.350.medium.0.png"
+      },
+      "id": 149
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://content.sportslogos.net/logos/54/66/full/montreal_expos_logo_primary_19926140.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/66/full/w5aqbkrk24pv86dfgh5a1bh06.png"
+      },
+      "id": 150
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_19997337.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_19997337.png"
+      },
+      "id": 151
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 19,
+        "imgURL": "https://content.sportslogos.net/logos/54/61/full/houston_astros_logo_primary_20001925.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/61/full/qn7gft7k50na7gj5g5get798z.png"
+      },
+      "id": 152
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "imgURL": "https://content.sportslogos.net/logos/54/71/full/uorovupw0jagctt6iu1huivi9.png"
+      },
+      "id": 153
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_19922235.png",
+        "imgURLSmall": "https://logos-world.net/wp-content/uploads/2020/05/Philadelphia-Phillies-Symbol-700x394.png"
+      },
+      "id": 154
+    },
+    {
+      "type": "teamInfo",
+      "season": 2000,
+      "phase": 0,
+      "info": {
+        "tid": 15,
+        "imgURL": "https://content.sportslogos.net/logos/54/72/full/3zhma0aeq17tktge1huh7yok5.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/72/full/cinwpgggw9k3vzfozik1mb8um.gif"
+      },
+      "id": 155
+    }
+  ],
+  "startingSeason": 1901
+}
