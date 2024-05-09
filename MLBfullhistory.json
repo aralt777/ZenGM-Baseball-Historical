@@ -416,7 +416,7 @@
     "maxContractLength": 5,
     "maxOvertimes": null,
     "maxOvertimesPlayoffs": null,
-    "maxRosterSize": 30,
+    "maxRosterSize": 35,
     "minContract": 30,
     "minContractLength": 1,
     "minPayroll": 0,
@@ -1031,7 +1031,7 @@
       "season": 1912,
       "phase": 0,
       "info": {
-        "tid": 4,
+        "tid": 2,
         "imgURL": "https://content.sportslogos.net/logos/53/55/full/c2vhdvooe4c1i8j6930y0s9go.png",
         "imgURLSmall": "https://content.sportslogos.net/logos/53/55/full/c2vhdvooe4c1i8j6930y0s9go.png"
       },
@@ -1120,7 +1120,9 @@
       "info": {
         "tid": 6,
         "region": "Cleveland",
-        "name": "Indians"
+        "name": "Indians",
+        "imgURL": "https://upload.wikimedia.org/wikipedia/en/d/dd/Chief_Wahoo_%28mascot_character%29.svg",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/en/d/dd/Chief_Wahoo_%28mascot_character%29.svg"
       },
       "id": 50
     },
@@ -1318,8 +1320,8 @@
         "region": "Kansas City",
         "name": "Athletics",
         "abbrev": "KCA",
-        "imgURL": "https://content.sportslogos.net/logos/53/52/thumbs/4rzjwfztogqmfzomv44xxzgc8.gif",
-        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/thumbs/4rzjwfztogqmfzomv44xxzgc8.gif",
+        "imgURL": "https://content.sportslogos.net/logos/53/83/full/2922.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/83/full/2922.png",
         "colors": [
           "#c40202",
           "#ffffff",
@@ -1571,9 +1573,10 @@
         "tid": 5,
         "region": "Oakland",
         "name": "Athletics",
+        "abbrev": "OAK",
         "pop": 0.44,
         "colors": [
-          "#02c423",
+          "#06aa22",
           "#ffba11",
           "#ffffff"
         ],
@@ -2211,7 +2214,7 @@
       "season": 1990,
       "phase": 0,
       "info": {
-        "tid": 25,
+        "tid": 26,
         "imgURL": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19875479.png",
         "imgURLSmall": "https://content.sportslogos.net/logos/53/75/full/seattle_mariners_logo_primary_19875479.png"
       },
@@ -2233,7 +2236,7 @@
       "season": 1990,
       "phase": 0,
       "info": {
-        "tid": 24,
+        "tid": 23,
         "imgURL": "https://content.sportslogos.net/logos/54/73/full/m566u01h7d3afjnweeisxc4xe.png",
         "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SD_Logo_Brown.svg/1200px-SD_Logo_Brown.svg.png"
       },
@@ -2377,6 +2380,8 @@
       "phase": 0,
       "info": {
         "tid": 10,
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg",
+        "imgURLSmall": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chicago_Cubs_logo.svg",
         "did": 11
       },
       "id": 131
@@ -2595,7 +2600,8 @@
       "phase": 0,
       "info": {
         "tid": 5,
-        "imgURL": "https://content.sportslogos.net/logos/53/69/full/6xk2lpc36146pbg2kydf13e50.png"
+        "imgURL": "https://content.sportslogos.net/logos/53/69/full/6xk2lpc36146pbg2kydf13e50.png",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/oakland_a_wbgs.png"
       },
       "id": 148
     },
@@ -2674,6 +2680,599 @@
         "imgURLSmall": "https://content.sportslogos.net/logos/54/72/full/cinwpgggw9k3vzfozik1mb8um.gif"
       },
       "id": 155
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "info": {
+        "tid": 24,
+        "region": "Washington",
+        "name": "Nationals",
+        "pop": 5.48,
+        "colors": [
+          "#c80808",
+          "#1100b4",
+          "#ffffff"
+        ],
+        "jersey": "baseball1:hat1",
+        "abbrev": "WSH",
+        "imgURL": "https://content.sportslogos.net/logos/54/578/full/x1hlmovt2m0mgs7ghwzgu6lht.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/578/full/bcwsjvqu9kqba0zohesz4rou6.png"
+      },
+      "id": 156
+    },
+    {
+      "type": "teamInfo",
+      "season": 2005,
+      "phase": 0,
+      "info": {
+        "tid": 17,
+        "region": "Los Angeles",
+        "name": "Angels of Anaheim",
+        "pop": 18.3,
+        "colors": [
+          "#d80000",
+          "#230cff",
+          "#999999"
+        ],
+        "jersey": "baseball4:hat1",
+        "abbrev": "LAA",
+        "imgURL": "https://content.sportslogos.net/logos/53/922/full/wsghhaxkh5qq0hdkbt1b5se41.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/922/full/wsghhaxkh5qq0hdkbt1b5se41.png"
+      },
+      "id": 157
+    },
+    {
+      "type": "teamInfo",
+      "season": 2007,
+      "phase": 0,
+      "info": {
+        "tid": 29,
+        "colors": [
+          "#c70101",
+          "#d5a800",
+          "#000000"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_20075619.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_20075619.png"
+      },
+      "id": 158
+    },
+    {
+      "type": "teamInfo",
+      "season": 2008,
+      "phase": 0,
+      "info": {
+        "tid": 30,
+        "region": "Tampa Bay",
+        "name": "Rays",
+        "jersey": "baseball4:hat1",
+        "imgURL": "https://content.sportslogos.net/logos/53/2535/full/tampa_bay_rays_logo_primary_20085870.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/2535/full/tampa_bay_rays_logo_alternate_20082713.png"
+      },
+      "id": 159
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "maxContract": 472600,
+        "minContract": 400,
+        "salaryCap": 1303700,
+        "luxuryTax": 1200000
+      },
+      "id": 160
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "tid": 18,
+        "imgURL": "https://content.sportslogos.net/logos/53/77/full/ajfeh4oqeealq37er15r3673h.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/77/full/ajfeh4oqeealq37er15r3673h.png"
+      },
+      "id": 161
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "tid": 26,
+        "imgURL": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_20041790.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/78/full/01g9y2wh6u9hw9f3fj8z40r9a.png"
+      },
+      "id": 162
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://content.sportslogos.net/logos/54/73/full/5gasxjdlnb5gfhhgeey3z8aob.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/73/full/5gasxjdlnb5gfhhgeey3z8aob.png"
+      },
+      "id": 163
+    },
+    {
+      "type": "teamInfo",
+      "season": 2010,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_20062241.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_20062241.png"
+      },
+      "id": 164
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "numPlayoffByes": 6,
+        "numGamesPlayoffSeries": [
+          1,
+          5,
+          7,
+          7
+        ]
+      },
+      "id": 165
+    },
+    {
+      "type": "teamInfo",
+      "season": 2011,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://content.sportslogos.net/logos/54/578/full/washington_nationals_logo_primary_20117280.png",
+        "imgURLSmall": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/wsh.png"
+      },
+      "id": 166
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "tid": 29,
+        "imgURL": "https://www.sportslogos.net/logos/view/gnnnrbxcmjhdgeu6mavqk3945/Arizona_Diamondbacks/2012/Primary_Logo",
+        "imgURLSmall": "https://www.sportslogos.net/logos/view/gnnnrbxcmjhdgeu6mavqk3945/Arizona_Diamondbacks/2012/Primary_Logo"
+      },
+      "id": 167
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "tid": 27,
+        "region": "Miami",
+        "name": "Marlins",
+        "abbrev": "MIA",
+        "imgURL": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20128805.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/3637/full/zeom8ebo9o8fd4g8jj05bzcgm.gif"
+      },
+      "id": 168
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "tid": 9,
+        "imgURL": "https://content.sportslogos.net/logos/54/63/full/los_angeles_dodgers_logo_primary_20127886.png",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/dodgers_wbgs.png"
+      },
+      "id": 169
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "colors": [
+          "#140183",
+          "#ffffff",
+          "#140183"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/73/full/ebjtzdtqw33dahm7k8zojhe45.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/73/full/ebjtzdtqw33dahm7k8zojhe45.png"
+      },
+      "id": 170
+    },
+    {
+      "type": "teamInfo",
+      "season": 2012,
+      "phase": 0,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_20129486.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/78/full/xxaqweqffuesooh5n4euube6n.png"
+      },
+      "id": 171
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "numGames": 162,
+        "numGamesConf": 66,
+        "numGamesDiv": 76
+      },
+      "id": 172
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "imgURL": "https://content.sportslogos.net/logos/53/4929/full/houston_astros_logo_primary_20137038.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/4929/full/houston_astros_logo_primary_20137038.png",
+        "tid": 19,
+        "cid": 0,
+        "did": 8
+      },
+      "id": 173
+    },
+    {
+      "type": "teamInfo",
+      "season": 2013,
+      "phase": 0,
+      "info": {
+        "tid": 11,
+        "imgURL": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_20133208.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/56/full/cincinnati_reds_logo_primary_20133208.png"
+      },
+      "id": 174
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "imgURL": "https://content.sportslogos.net/logos/53/57/full/5347_cleveland_indians-primary-2014.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/57/full/5347_cleveland_indians-primary-2014.png"
+      },
+      "id": 175
+    },
+    {
+      "type": "teamInfo",
+      "season": 2014,
+      "phase": 0,
+      "info": {
+        "tid": 14,
+        "imgURL": "https://content.sportslogos.net/logos/54/71/full/1250_pittsburgh_pirates-primary-2014.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/71/full/1250_pittsburgh_pirates-primary-2014.png"
+      },
+      "id": 176
+    },
+    {
+      "type": "teamInfo",
+      "season": 2015,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://content.sportslogos.net/logos/54/73/full/4344_san_diego_padres-primary-2015.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/73/full/4344_san_diego_padres-primary-2015.png"
+      },
+      "id": 177
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "tid": 17,
+        "region": "Los Angeles",
+        "name": "Angels",
+        "pop": 18.3,
+        "colors": [
+          "#d80000",
+          "#230cff",
+          "#999999"
+        ],
+        "jersey": "baseball4:hat1",
+        "abbrev": "LAA",
+        "imgURL": "https://content.sportslogos.net/logos/53/6521/full/4389_los_angeles_angels-primary-2016.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/6521/full/4389_los_angeles_angels-primary-2016.png"
+      },
+      "id": 178
+    },
+    {
+      "type": "teamInfo",
+      "season": 2016,
+      "phase": 0,
+      "info": {
+        "tid": 3,
+        "imgURL": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_20162109.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/59/full/detroit_tigers_logo_primary_20162109.png"
+      },
+      "id": 179
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "info": {
+        "tid": 28,
+        "imgURL": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20179087.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20179087.png"
+      },
+      "id": 180
+    },
+    {
+      "type": "teamInfo",
+      "season": 2017,
+      "phase": 0,
+      "info": {
+        "tid": 27,
+        "imgURL": "https://content.sportslogos.net/logos/54/58/full/colorado_rockies_logo_primary_20171892.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/58/full/colorado_rockies_logo_primary_20171892.png"
+      },
+      "id": 181
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "tid": 22,
+        "imgURL": "https://content.sportslogos.net/logos/54/64/full/milwaukee_brewers_logo_primary_20187469.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/64/full/milwaukee_brewers_logo_primary_20187469.png"
+      },
+      "id": 182
+    },
+    {
+      "type": "teamInfo",
+      "season": 2018,
+      "phase": 0,
+      "info": {
+        "tid": 8,
+        "imgURL": "https://content.sportslogos.net/logos/54/51/full/7150_atlanta_braves-primary-2018.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/51/full/7150_atlanta_braves-primary-2018.png"
+      },
+      "id": 183
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "tid": 4,
+        "imgURL": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_20195398.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/52/full/baltimore_orioles_logo_primary_20195398.png"
+      },
+      "id": 184
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "tid": 24,
+        "imgURL": "https://content.sportslogos.net/logos/53/62/full/kansas_city_royals_logo_primary_20198736.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/62/full/kansas_city_royals_logo_primary_20198736.png"
+      },
+      "id": 185
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "tid": 30,
+        "imgURL": "https://content.sportslogos.net/logos/53/2535/full/tampa_bay_rays_logo_primary_20196768.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/2535/full/tampa_bay_rays_logo_primary_20196768.png"
+      },
+      "id": 186
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "tid": 28,
+        "imgURL": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_primary_20194007.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/3637/full/miami_marlins_logo_alternate_20195509.png"
+      },
+      "id": 187
+    },
+    {
+      "type": "teamInfo",
+      "season": 2019,
+      "phase": 0,
+      "info": {
+        "tid": 13,
+        "imgURL": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_20193931.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/70/full/philadelphia_phillies_logo_primary_20193931.png"
+      },
+      "id": 188
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "numGames": 60,
+        "numGamesConf": 0,
+        "numGamesDiv": 40,
+        "numPlayoffByes": 0,
+        "numGamesPlayoffSeries": [
+          3,
+          5,
+          7,
+          7
+        ],
+        "salaryCap": 161220,
+        "minContract": 400,
+        "maxContract": 45500
+      },
+      "id": 189
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "tid": 25,
+        "imgURL": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_20208446.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/78/full/toronto_blue_jays_logo_primary_20208446.png"
+      },
+      "id": 190
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "tid": 21,
+        "imgURL": "https://content.sportslogos.net/logos/54/64/full/6474_milwaukee_brewers-primary-2020.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/64/full/6474_milwaukee_brewers-primary-2020.png"
+      },
+      "id": 191
+    },
+    {
+      "type": "teamInfo",
+      "season": 2020,
+      "phase": 0,
+      "info": {
+        "tid": 23,
+        "imgURL": "https://content.sportslogos.net/logos/54/73/full/7517_san_diego_padres-primary-2020.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/73/full/7517_san_diego_padres-primary-2020.png"
+      },
+      "id": 192
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2021,
+      "phase": 0,
+      "info": {
+        "numGames": 162,
+        "numGamesConf": 66,
+        "numGamesDiv": 76,
+        "numPlayoffByes": 6,
+        "numGamesPlayoffSeries": [
+          1,
+          5,
+          7,
+          7
+        ]
+      },
+      "id": 193
+    },
+    {
+      "type": "teamInfo",
+      "season": 2022,
+      "phase": 0,
+      "info": {
+        "tid": 6,
+        "region": "Cleveland",
+        "name": "Guardians",
+        "colors": [
+          "#fb1313",
+          "#ffffff",
+          "#0d0087"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_primary_20227577.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/6804/full/cleveland_guardians_logo_alternate_2022_sportslogosnet-6589.png"
+      },
+      "id": 194
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2022,
+      "phase": 0,
+      "info": {
+        "dh": [
+          0,
+          0
+        ],
+        "draftType": "mlb2022",
+        "numPlayoffByes": 4,
+        "numGamesPlayoffSeries": [
+          3,
+          5,
+          7,
+          7
+        ]
+      },
+      "id": 195
+    },
+    {
+      "type": "gameAttributes",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "numGames": 162,
+        "numGamesConf": 64,
+        "numGamesDiv": 52
+      },
+      "id": 196
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "tid": 7,
+        "imgURL": "https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_primary_2023_sportslogosnet-3953.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/53/65/full/minnesota_twins_logo_primary_2023_sportslogosnet-3953.png"
+      },
+      "id": 197
+    },
+    {
+      "type": "teamInfo",
+      "season": 2023,
+      "phase": 0,
+      "info": {
+        "tid": 29,
+        "colors": [
+          "#c70101",
+          "#009caa",
+          "#000000"
+        ],
+        "imgURL": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_2024_sportslogosnet-3125.png",
+        "imgURLSmall": "https://content.sportslogos.net/logos/54/50/full/arizona_diamondbacks_logo_primary_2024_sportslogosnet-3125.png"
+      },
+      "id": 198
+    },
+    {
+      "type": "teamInfo",
+      "season": 2025,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "region": "The",
+        "name": "Athletics",
+        "abbrev": "A's",
+        "imgURL": "https://content.sportslogos.net/logos/53/69/full/92wl8kuvvr8h4k7p64s3jecgj.gif",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/oakland_a_wbgs.png"
+      },
+      "id": 199
+    },
+    {
+      "type": "teamInfo",
+      "season": 2028,
+      "phase": 0,
+      "info": {
+        "tid": 5,
+        "region": "Las Vegas",
+        "name": "Athletics",
+        "abbrev": "LV",
+        "pop": 2.22,
+        "imgURL": "https://static.wixstatic.com/media/ff1839_78c70d7fe22b4a74ac2e674898aa66af~mv2.png/v1/fill/w_162,h_162,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ff1839_78c70d7fe22b4a74ac2e674898aa66af~mv2.png",
+        "imgURLSmall": "https://s.yimg.com/cv/apiv2/default/mlb/20190319/500x500/oakland_a_wbgs.png"
+      },
+      "id": 200
     }
   ],
   "startingSeason": 1901
